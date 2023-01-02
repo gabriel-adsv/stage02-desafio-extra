@@ -27,15 +27,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Figma
-
 <br />
-
 ## 💻 Projeto
 
 O Desafio extra é uma página desktop com imagem, título, texto, rodapé e finaliza com um rodapé com efeito de onda. 
 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/projeto-devlinks/)
-
+- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage02-desafio-extra/)
 <br />
 
 <!-- ## 🔖 Layout
@@ -48,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<!-- Feito com ♥ by Gabriel Augusto :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat) -->
+Feito com ♥ by Gabriel Augusto <!-- :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat) -->
